@@ -1,49 +1,145 @@
+# 👋 Hi, I'm Ayoola
 
-<h1 align="center">Hi 👋, I'm Ayoola</h1>
-<h3 align="center">A passionate Backend developer from Nigeria</h3>
+### Backend Developer | PHP & Laravel 🇳🇬
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoolatech19&label=Profile%20views&color=0e75b6&style=flat" alt="ayoolatech19" /> </p>
+I'm a backend developer focused on building practical, reliable web applications and APIs with **PHP and Laravel**.
 
-<p align="left"> <a href="https://twitter.com/ayooladev" target="blank"><img src="https://img.shields.io/twitter/follow/ayooladev?logo=twitter&style=for-the-badge" alt="ayooladev" /></a> </p>
+I enjoy turning ideas into working backend systems — from authentication and database relationships to REST APIs, payments, webhooks, and background jobs.
 
-- 🔭 I’m currently working on **Fintech**
+---
 
-- 🌱 I’m currently learning **Laravel**
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on **Ecommerce**
+- 💻 Backend Developer focused on **PHP & Laravel**
+- 🌱 Currently improving my skills in **Advanced Laravel & Backend Architecture**
+- 🔧 Building real-world backend projects to strengthen my development skills
+- 🗄️ Working with **PostgreSQL & MySQL**
+- 🔐 Interested in authentication, authorization, APIs, payments, and secure backend systems
+- 💳 Working with payment integrations such as **Paystack**
+- 📚 Always learning and improving through practical projects
+- 🎯 Looking for **Backend Developer Internship / Junior Backend Developer opportunities**
 
-- 🤝 I’m looking for help with **Chatting system**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/ayoolatech19](https://github.com/ayoolatech19)
+## 🛠️ Tech Stack
 
-- 💬 Ask me about **PHP**
+### Backend
+- PHP
+- Laravel
+- REST APIs
+- Authentication & Authorization
+- Webhooks
+- Queues & Jobs
+- API Integration
 
-- 📫 How to reach me **mahmoudomotosho12@gmail.com**
+### Databases
+- PostgreSQL
+- MySQL
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ayooladev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayooladev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayo ola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayo ola" height="30" width="40" /></a>
-</p>
+### Tools
+- Git & GitHub
+- Postman
+- Composer
+- DBeaver
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoolatech19&show_icons=true&locale=en&layout=compact" alt="ayoolatech19" /></p>
+## 📌 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoolatech19&" alt="ayoolatech19" /></p>
+### 🎟️ Event Hub
 
-<!--
-**ayoolatech19/ayoolatech19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Laravel-based event management and booking system.
 
-Here are some ideas to get you started:
+**Features include:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- User authentication
+- Event management
+- Event bookings
+- Booking status management
+- Payment integration
+- Paystack payment processing
+- Payment verification
+- Webhooks
+- Database relationships
+- REST APIs
+- Background jobs
+
+🔗 [View Repository](https://github.com/ayoolatech19)
+
+---
+
+### 💰 FinTech System
+
+A backend-focused financial application built with Laravel.
+
+**Features include:**
+
+- User authentication
+- Wallet management
+- Deposits
+- Transfers
+- Withdrawals
+- Transaction history
+- Admin functionality
+- Database relationships
+
+🔗 [View Repository](https://github.com/ayoolatech19)
+
+---
+
+### 🏥 Hospital Management System
+
+A Laravel-based hospital management application.
+
+**Features include:**
+
+- Admin dashboard
+- Doctor management
+- Patient management
+- Appointments
+- Prescriptions
+- Authentication
+- Role-based access control
+- Database relationships
+
+🔗 [View Repository](https://github.com/ayoolatech19/Hospital-Management)
+
+---
+
+### 💬 Chat Application
+
+A Laravel chat application built to practice real-world backend concepts.
+
+**Features include:**
+
+- User authentication
+- Friend requests
+- Friend management
+- Messaging
+- User relationships
+- Database-driven conversations
+
+🔗 [View Repository](https://github.com/ayoolatech19)
+
+---
+
+## 📚 What I'm Currently Learning
+
+I'm currently taking my Laravel skills beyond basic CRUD and focusing on:
+
+```text
+REST APIs
+      ↓
+Authentication
+      ↓
+Payments
+      ↓
+Webhooks
+      ↓
+Queues & Jobs
+      ↓
+Caching
+      ↓
+Redis
+      ↓
+Advanced Laravel Architecture
